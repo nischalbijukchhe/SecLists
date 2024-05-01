@@ -1,6 +1,9 @@
 dup-installer-bootlog
 index.php
 installer-backup.php
+wp-config.php.old
+wp-config.php
+
 installer.php
 license.txt
 readme.html
