@@ -5,6 +5,7 @@ installer.php
 license.txt
 readme.html
 wordfence-waf.php
+wp-config.php.bak
 wp-activate.php
 wp-admin/
 wp-admin/about.php
